@@ -1,6 +1,7 @@
 MyPortfolio
 
 This is my first Assignment, created using HTML, CSS, and JavaScript.
+
 Technologies Used
 - HTML – To create the structure of the webpage.
 - CSS – To style and design the webpage.
